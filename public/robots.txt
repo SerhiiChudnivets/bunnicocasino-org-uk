@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /trackback/
+Disallow: /play/*
+
+Sitemap: https://betscarab-casino.co.uk/sitemap.xml
